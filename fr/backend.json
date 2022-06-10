@@ -1,0 +1,76 @@
+{
+    "lang_name": "Français",
+
+    "title": "Join4Join • Gagne des membres gratuitement et rapidement sur Discord",
+    "history": "Historique",
+    "coins": "coins",
+    "no_history": "Aucun historique a afficher ici",
+
+    "buy": "Buy",
+    "farm": "Farm",
+    "check": "Check",
+    "logout": "Logout",
+    "home": "Accueil",
+    "settings": "Paramètre",
+    "premium": "Premium",
+
+    "status": "Bot Status",
+    "login": "Connexion",
+    "description": "Join4Join est le meilleur site pour gagner des membres sur Discord! Farm des coins et achete des membres.",
+    "join_discord": "REJOINS LE SERVEUR DISCORD POUR PLUS DE COINS",
+
+    "disclaimer": "Copyright © 2021 Tous les droits reservés a Join4Join. Non affilié avec Discord.",
+    "support": "Rejoins notre serveur support",
+    "help": "aide",
+    "footer_title": "JOIN 4 JOIN BOT - LE MEILLEUR BOT POUR GAGNER PLEIN DE MEMBRES SUR DISCORD!",
+    "footer_description": "Obtenez des milliers de membres et développez votre serveur très rapidement avec ce bot j4j ! Fini maintenant de faire de la publicité, des bumps, des partenariats pour obtenir des membres. Ce bot vous permet d'obtenir des membres rapidement. Rejoins des serveurs pour obtenir beaucoup de coins et acheter des membres",
+    "footer_buy": "BUY: achete une publicité pour gagner plein de membres.",
+    "footer_farm": "FARM: farm des serveurs pour gagner plein de coins.",
+    "footer_check": "CHECK: verifie les serveurs pour voir si tu peux les quitter sans perdre de coins.",
+    "more_linkes": "PLUS DE LIENS",
+    "adsreference": "Promouvois tes projets",
+
+    "select_server": "SELECTIONNE UN SERVEUR POUR ACHETER UNE PUBLICITE",
+
+    "joining_server": "A rejoint un serveur Discord.",
+    "leave_refund": "Remboursement pour les membres ayant quitté le serveur avant 4 jours.",
+    "leave_loss": "A quitté le serveur avant 4 jours.",
+    "purchinag_advert": "Achat d'une publicité pour le serveur %server%",
+    "bump_server": "Bump le serveur support",
+
+    "buy_ad": "Achete une pub!",
+    "member_order": "Combien de membres veux tu acheter? (1 membre coute 1 coin)",
+    "amount_of_members": "Entre le nombre de membres que tu veux",
+    "save": "Sauvegarder",
+    "sending": "Envoie en cours... merci de patienter",
+    "ad_information": "Informations Publicité",
+    "ad_in_progress": "Ta publicité est en cours, merci d'etre patient! Progression: %progress%. %more% more members need to be invited before your advert is completed.",
+    "coin_message": "Tu as %coins% coins!",
+    "not_enough_coins": "Tu n'as pas assez de coins pour acheter ces membres!",
+    "bot_warning": "ATTENTION: Si le bot n'a pas la permission creer des invitations ou expulser des membres ta publicité sera supprimé!",
+
+    "set_lang": "Selectionne la langue:",
+    "language": "Langue",
+    "notifications": "Notifications",
+    "set_notifications": "Si tu as les notifications activés tu recevras un ping sur le serveur Discord quand ta publicité sera terminé.",
+    "enable": "Activé",
+    "disable": "Désactivé",
+
+    "price": "Prix",
+    
+    "on": "ON",
+    "off": "OFF",
+    "farm_description": "FARM DES SERVEURS POUR GAGNER DES COINS: (%rate% coins / serveur)",
+    "click_confirm": "En cliquant sur le serveur tu autorises le bot a te rajouter au serveur.",
+    "server_warning": "ATTENTION! Si tu quittes avant d'attendre 4j tu vas perdre %loss% coins.",
+    "autofarm_description": "Auto-farm te fera rejoindre automatiquement les serveurs pour gagner plus de coins. Active ou desactive le systeme d'auto farm en cliquant sur le bouton ci dessous.",
+    "autofarm": "AUTO-FARM",
+    "no_servers": "Apparemment il n'y a plus de serveurs a rejoindre pour le moment! Reviens plus tard...",
+    "succesfully_farmed": "Serveur farm avec succes!",
+
+    "check_description": "Tu peux quitter ces serveurs sans perdre de coins:",
+    "check_warning": "En cliquant sur le serveur tu autorises le bot a te retirer du serveur. (Si le bot a les permissions qui le permet! Si tu n'es pas automatiquement retiré, tu pourras le faire manuellement sur le serveur.)",
+    "no_leave": "Apparemment tu ne peux pas quitter de serveurs pour le moment! Tu peux quitter les serveurs apres 4jours.",
+    "check_success": "Tu as été retiré du serveur avec succes!",
+    "remaining_coins" : "Coins restant"
+}
