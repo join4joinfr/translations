@@ -8,7 +8,7 @@ If you wish to help translate Join4Join, please firstly ensure you meet the foll
 - You do not have to use google translate (or any other translation software to assist you)
 ## Steps
 To contribute please follow this guide:
-- Fork this repository (at https://github.com/join4join/translations/fork) so you have a private copy
+- Fork this repository (at https://github.com/join4joinfr/translations/fork) so you have a private copy
 - If short code does exist => modify `./lang_short_code/backend.json` & `./lang_short_code/all.json`
 - If short code does not exist => please create it and open a ticket so our dev team can implement the lang shortly !
   
